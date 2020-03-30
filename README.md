@@ -1,2 +1,2 @@
-# todaybias.github.com
+# todaybias
 random
